@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![wntgaa's github stats](https://github-readme-stats.vercel.app/api?username=wntgaa&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wntgaa)](https://solved.ac/wntgaa)
+
+
+
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwntgaa&count_bg=%23FF97EE&title_bg=%2370FFF3&icon=&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **wntgaa/wntgaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
