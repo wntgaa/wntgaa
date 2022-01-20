@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![wntgaa's github stats](https://github-readme-stats.vercel.app/api?username=wntgaa&show_icons=true)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wntgaa)](https://solved.ac/wntgaa)
 
 
 
